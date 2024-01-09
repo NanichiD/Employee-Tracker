@@ -1,9 +1,9 @@
-const employeeDetails = {
+const sampleEmployeeDetails = {
     IDNumber: 'SOFTW-001',
     name: 'Nanichi David',
     age: '17',
-    position: 'Lead Software Engineer',
-    department: 'Engineering',
+    position: 'Senior Software Engineer',
+    department: 'Engineering/IT',
 }
 const {IDNumber, name, age, position, department} = employeeDetails
 
